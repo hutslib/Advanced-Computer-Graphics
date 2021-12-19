@@ -3,14 +3,15 @@ This is the repository for COMP5411 Advantage Computer Graphics in HKUST (year20
 In this class I have complete some assignments and a final project.
 
 Assignments include:
-- Laplacian Smoothing
-  - explicite 
-  - implicite
-- Naive Laplacian Deformation
-Final Project:
-- Rendering Fur On Bunny
+- [Laplacian Smoothing](#assignment-1-laplacian-smoothing)
+  - [explicit](#explicit)
+  - [implicit](#implicit)
+- [Naive Laplacian Deformation](#assignment-2-naive-laplacian-deformation)
 
-# Final Project : Rendering Fur On Bunny
+Final Project:
+- [Rendering Fur On Bunny](#final-project-rendering-fur-on-bunny)
+
+# Final Project: Rendering Fur On Bunny
 
 <p>Our group using webgl and three.js to render fur on a bunny object. We also render a background scenario and illuminate some light effects.</p>
 <img src="./img/summary.png" alt="Summary" width="60%" height="auto" >
@@ -53,3 +54,28 @@ Here is the firnal report video for our project:
 <iframe width="100%" style="height: calc(60vw); max-height: 512px" src="https://youtu.be/KoC0cmfwZ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please check more details in the [final video](https://youtu.be/KoC0cmfwZ74).
+
+# Assignment 1: Laplacian Smoothing
+I implement the explicit Laplician smoothing using the uniform weights and the cotangent weights. And I also implement the implicit Laplacian smoothing using uniform weights and cotangent weights. 
+
+## explicit
+#### uniform weights
+<p>Find the average position for the all the neighbors of point Xi. Using the difference between the average point and the point Xi to indicate the direction to smooth the point Xi.</p>
+
+<img src="./img/laplacian-smoothing_1.png" alt="laplacian-smoothing_1" width="60%" height="auto" >
+
+#### contagent weights
+
+<img src="./img/laplacian-smoothing_2.png" alt="laplacian-smoothing_2" width="60%" height="auto" >
+
+<img src="./img/laplacian-smoothing_3.png" alt="laplacian-smoothing_3" width="60%" height="auto" >
+
+
+## implicit
+
+implicit integration approximate derivative using the new mesh.
+
+<img src="./img/laplacian-smoothing_4.png" alt="laplacian-smoothing_4" width="60%" height="auto" >
+
+
+# Assignment 2: Naive Laplacian Deformation
