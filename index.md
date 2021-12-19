@@ -56,7 +56,7 @@ Here is the firnal report video for our project:
 Please check more details in the [final video](https://youtu.be/KoC0cmfwZ74).
 
 # Assignment 1: Laplacian Smoothing
-I implement the explicit Laplician smoothing using the uniform weights and the cotangent weights. And I also implement the implicit Laplacian smoothing using uniform weights and cotangent weights. 
+I implement the explicit Laplician smoothing using the uniform weights and the cotangent weights. And I also implement the implicit Laplacian smoothing using uniform weights and cotangent weights.The result and report of this assignment is here. [Laplacian Smoothing Report](https://github.com/hutslib/Advanced-Computer-Graphics/blob/main/Laplacian_Smoothing/report1.pdf) 
 
 ## explicit
 #### uniform weights
@@ -79,3 +79,21 @@ implicit integration approximate derivative using the new mesh.
 
 
 # Assignment 2: Naive Laplacian Deformation
+I implement the naive Laplacian deformation. I use the differential coordinate to encode the geometric details of each vertex. People can select some points to move and the deformation problem can be formulated as a least square problem, whcih contains two part: the regularization part and the matching part. A paper and report show the method in detail is here. [Naive Laplacian Deformation paper and report](https://github.com/hutslib/Advanced-Computer-Graphics/blob/main/Naive_Laplacian_Deformation/Naive-Laplacian-Deformation_report.pdf)
+
+<img src="./img/naive-laplacian-deformation_1.png" alt="naive-laplacian-deformation_1" width="60%" height="auto" >
+
+<img src="./img/naive-laplacian-deformation_2.png" alt="naive-laplacian-deformation_2" width="60%" height="auto" >
+
+<img src="./img/naive-laplacian-deformation_3.png" alt="naive-laplacian-deformation_3" width="60%" height="auto" >
+
+<img src="./img/naive-laplacian-deformation_4.png" alt="naive-laplacian-deformation_4" width="60%" height="auto" >
+
+
+
+The result video is here.
+
+<iframe width="100%" style="height: calc(60vw); max-height: 512px" src="https://youtu.be/KoC0cmfwZ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Please check more details in the [Naive Laplacian Deformation Video](https://youtu.be/sLAs1RXT7Tg).
+
