@@ -43,7 +43,7 @@ Please check more details in the [proposal video](https://youtu.be/03RzWorSsOs).
 <img src="./img/module_3.png" alt="module_3" width="60%" height="auto" >
 
 ### 3. How to set background scene and finish the light illumination:
-<p>We add background texture to simulate bunny is on a mooon and using the phong illumination model and phong shading algorithm.</p>
+<p>We add background texture to simulate bunny is on a moon and using the phong illumination model and phong shading algorithm.</p>
 <img src="./img/phong-illumination-module.png" alt="phong-illumination-module" width="60%" height="auto" >
 
 ### video:
