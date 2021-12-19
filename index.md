@@ -16,6 +16,8 @@ Final Project:
 <p>Our group using webgl and three.js to render fur on a bunny object. We also render a background scenario and illuminate some light effects.</p>
 <img src="./img/summary.png" alt="Summary" width="60%" height="auto" >
 
+The proposal of our project is here. [proposal](https://github.com/hutslib/Advanced-Computer-Graphics/blob/main/finall_project/proposal.pdf)
+
 Here is the proposal video for our project:
 
 <iframe width="100%" style="height: calc(60vw); max-height: 512px" src="https://youtu.be/03RzWorSsOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
