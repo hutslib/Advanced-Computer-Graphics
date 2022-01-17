@@ -20,7 +20,7 @@ The proposal of our project is here. [proposal](https://github.com/hutslib/Advan
 
 Here is the proposal video for our project:
 
-<iframe width="100%" style="height: calc(60vw); max-height: 512px" src="https://youtube.com/embed/03RzWorSsOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" style="height: calc(60vw); max-height: 512px" src="https://www.youtube.com/embed/03RzWorSsOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please check more details in the [proposal video](https://youtu.be/03RzWorSsOs).
 
@@ -53,7 +53,7 @@ Please check more details in the [proposal video](https://youtu.be/03RzWorSsOs).
 
 Here is the firnal report video for our project:
 
-<iframe width="100%" style="height: calc(60vw); max-height: 512px" src="https://youtube.com/embed/KoC0cmfwZ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" style="height: calc(60vw); max-height: 512px" src="https://www.youtube.com/embed/KoC0cmfwZ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please check more details in the [final video](https://youtu.be/KoC0cmfwZ74).
 
@@ -95,7 +95,7 @@ I implement the naive Laplacian deformation. I use the differential coordinate t
 
 The result video is here.
 
-<iframe width="100%" style="height: calc(60vw); max-height: 512px" src="https://youtube.com/embed/KoC0cmfwZ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" style="height: calc(60vw); max-height: 512px" src="https://www.youtube.com/embed/KoC0cmfwZ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please check more details in the [Naive Laplacian Deformation Video](https://youtu.be/sLAs1RXT7Tg).
 
